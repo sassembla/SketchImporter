@@ -3,7 +3,7 @@ import .sketch file to Unity as sliced files.
 
 
 ## requirement
-[Sketch.app]() and Unity 2017.1 or later.
+[Sketch.app](https://www.sketchapp.com) and Unity 2017.1 or later.
 
 
 ## install
