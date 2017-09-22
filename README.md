@@ -1,6 +1,9 @@
 # SketchImporter
 import .sketch file to Unity as sliced files.
 
+## demo
+[![link](./doc/link.png)](https://vimeo.com/234194618)
+
 
 ## requirement
 [Sketch.app](https://www.sketchapp.com) and Unity 2017.1 or later.
